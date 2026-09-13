@@ -2,7 +2,7 @@
 # X-Prison Armors
 ![Discord](https://img.shields.io/discord/1387881708581290257?label=Discord&logo=Discord)
 
-**X-Prison Armors** gives every player one armor set that **levels up by mining**. The set starts as a grey leather **Common** set, earns armor XP for every raw block the player breaks, and climbs a configurable ladder of tiers — leather, chainmail, iron, gold, diamond, netherite — up to **Insanity**. Every level grows its boosts to money, tokens, gems, pickaxe XP and enchant proc chance; finishing a tier transforms the four pieces in place into the next tier's armor. Permission-based **skins** change how a set looks and speed up its progression.
+**X-Prison Armors** gives every player one armor set that **levels up by mining**. The set starts as a grey leather **Common** set, earns armor XP for every block the player mines with their own pickaxe (area enchants and bombs do not count), and climbs a configurable ladder of tiers — leather, chainmail, iron, gold, diamond, netherite — up to **Insanity**. Every level grows its boosts to money, tokens, gems, pickaxe XP and enchant proc chance; finishing a tier transforms the four pieces in place into the next tier's armor. Permission-based **skins** change how a set looks and speed up its progression.
 
 It is an add-on for [X-Prison](https://github.com/Drawethree/X-Prison) — every boost hooks into X-Prison's public API, and the [Events addon](https://github.com/Drawethree/X-Prison/wiki/Events)'s **Armor Training** event doubles armor XP.
 
@@ -52,8 +52,8 @@ We also offer **a lot more for prison servers** — the core, addons, setups and
 - **Skins** — look override per piece, armor-XP multiplier, optional extra boosts, unlocked by permission. The four bundled skins keep the 1.x permission nodes.
 - **Menus** — `/armors` tier ladder and `/armors skins` picker, every slot and line in `gui.yml`.
 - **Feedback** — level-up, tier-up and max-level messages, titles, sounds, action bar, broadcasts and particles, each its own toggle.
-- **Zero item writes on the block-break path** — XP is banked and flushed every five seconds.
-- **89 automated tests.**
+- **Zero item writes on the block-break path** — only manual swings are counted (`xp.source: MANUAL`, or `ALL`), XP is banked and flushed every five seconds.
+- **90 automated tests.**
 
 ---
 
