@@ -1,4 +1,4 @@
-![X-Prison Header](https://proxy.spigotmc.org/67a649c4e25bff8a1e0213be9dfcbb2dac2deff0/68747470733a2f2f692e696d6775722e636f6d2f3846457a7235652e706e67)
+![X-Prison Header](https://i.imgur.com/VpYT0KA.png)
 # X PRISON ARMORS
 ![Discord](https://img.shields.io/discord/1387881708581290257?label=Discord&logo=Discord)
 
