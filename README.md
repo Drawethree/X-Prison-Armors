@@ -8,7 +8,11 @@ It is an add-on for [X-Prison](https://github.com/Drawethree/X-Prison) — every
 
 ## 💎 Get X-Prison Armors
 
-**X-Prison Armors is a premium paid resource.** It is sold alongside X-Prison and its addons at our [**Prison Store**](https://builtbybit.com/store/prison-store.392/) on BuiltByBit — bundles with the core, setups and every addon carry **34–50 % discounts**. Need a custom bundle? Open a ticket on [Discord](https://discord.gg/ZeSkmEC6mG).
+**X-Prison Armors is a premium paid resource.** You can purchase it here:
+
+### 👉 [**Buy X-Prison Armors on BuiltByBit**](https://builtbybit.com/resources/x-armors-armor-progression-system.84696/) 👈
+
+We also offer **a lot more for prison servers** — the core, addons, setups and premium extras — at our [**Prison Store**](https://builtbybit.com/store/prison-store.392/), with **amazing bundle discounts**. Need a custom bundle? Open a ticket on [Discord](https://discord.gg/ZeSkmEC6mG).
 
 > **What's New in 2.0.0** — the permission multiplier of 1.x is now a **progression**: seven bundled tiers × ten levels, ~5,000,000 blocks to a fully upgraded Insanity set that boosts everything 3×, soulbound sets locked into the armor slots, the old permission tiers reborn as [skins](https://github.com/Drawethree/X-Prison-Armors/wiki/Skins), new menus, level-up effects, placeholders and a developer API. [See the Changelog](https://github.com/Drawethree/X-Prison-Armors/wiki/Changelog)
 
